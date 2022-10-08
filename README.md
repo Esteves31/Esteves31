@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: O meu gosto por games foi o que me trouxe para o meio da tecnologia
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Esteves31">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esteves31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteves31&layout=compact&langs_count=7&theme=dracula"/>
