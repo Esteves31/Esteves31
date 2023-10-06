@@ -1,19 +1,20 @@
-### Oii! Eu sou o Matheus Esteves!!
+### Hi! I am Matheus Esteves!!
 
-- 🌱 Estudando Html, CSS, JavaScript e Python
-- 📫 Email para contato: matheus.resteves@gmail.com 
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: O meu gosto por games foi o que me trouxe para o meio da tecnologia
+- 🌱 Studyng Machine Learning, Nureal Networks, C and C++
+- 📫 Contact: matheus.resteves@gmail.com 
+- ⚡ Fun fact: my passion for games brought me into the world of technology.
+- 
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Esteves31">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esteves31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteves31&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<div style="display: inline_block"><br>
+    
+<div style="display: inline_block; border: 4 px solid #000"><br>
   <img align="center" alt="Python-logo" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pyorch-logo" height="35" width="35" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png">
+  <img align="center" alt="Keras-logo" height="35" width="35" src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png">
   <img align="center" alt="C-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++-logo" height="40" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 </div>
