@@ -22,7 +22,7 @@ I am a Unifesp (University of São Paulo) student.
  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> ||||  
  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a> | | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a> ||||
 
-## 📩 Contact
+## 📩 Social Midias
   
  <div> 
   <a href="https://instagram.com/matheus_esteves1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
