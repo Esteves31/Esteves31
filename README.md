@@ -2,13 +2,13 @@
 
 I am a Unifesp (University of São Paulo) student.
 
-- 🌱 Studyng Machine Learning, Nureal Networks and computer graphics
+- 🌱 Studyng Machine Learning, Nureal Networks and computer graphics.
 - 📫 Contact: matheus.resteves@gmail.com 
 - ⚡ Fun fact: my passion for games brought me into the world of technology.
 
 ## 📊 Stats
 
-<div align="center" style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/Esteves31">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esteves31&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteves31&layout=compact&langs_count=7&theme=dracula"/>
