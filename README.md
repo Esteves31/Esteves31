@@ -1,8 +1,8 @@
 ## Hi! I am Matheus Esteves!!
 
-I am a Unifesp (University of São Paulo) student.
+I am a Unifesp (University of São Paulo) student and game dev.
 
-- 🌱 Studyng Machine Learning, Nureal Networks and computer graphics.
+- 🌱 Studyng Game Design, Game Development and C++.
 - 📫 Contact: matheus.resteves@gmail.com 
 - ⚡ Fun fact: my passion for games brought me into the world of technology.
 
