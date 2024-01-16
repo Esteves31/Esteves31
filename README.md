@@ -1,10 +1,12 @@
 ## Hi! I am Matheus Esteves!!
 
-I am a Unifesp (University of São Paulo) student and game dev.
+I'm a Unifesp (University of São Paulo) student and game dev.
 
-- 🌱 Studyng Game Design, Game Development and C++.
-- 📫 Contact: matheus.resteves@gmail.com 
+- 📖 Studyng Game Design, Game Development and C++ Development.
+- 🥇 Seeking constancy and improving my tech skills and soft skills.
 - ⚡ Fun fact: my passion for games brought me into the world of technology.
+
+My portfolio: 🛠 I'm building this, wait a minute 🛠
 
 ## 📊 Stats
 
@@ -16,13 +18,13 @@ I am a Unifesp (University of São Paulo) student and game dev.
 
 ## 🛠 &nbsp;Tech Stack
 
- | Languages | Librarys | Databases | Tools |
+ | Languages | Engines | Dev Tools | Knowledge |
  |-----------|----------|------------|-------|
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" /></a> |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> ||||
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=azure" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> ||||  
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a> | | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a> ||||
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a> |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unreal" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qt" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> ||||
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a> | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> ||||  
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=lua" /></a> | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a> ||||
 
-## 📩 Social Midias
+## 📩 Contacts
   
  <div> 
   <a href="https://instagram.com/matheus_esteves1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
