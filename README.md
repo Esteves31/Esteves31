@@ -1,6 +1,6 @@
 ## Hi! I am Matheus Esteves!!
 
-I'm a Unifesp (University of São Paulo) student and game dev.
+I'm a Unifesp (University of São Paulo) student about computer science and game dev.
 
 - 📖 Studyng Game Design, Game Development and C++ Development.
 - 🥇 Seeking constancy and improving my tech skills and soft skills.
