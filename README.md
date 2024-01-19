@@ -8,6 +8,8 @@ I'm a student at Unifesp (University of São Paulo) studyng about computer scien
 
 My portfolio: 🛠 I'm building this, wait a minute 🛠
 
+My Itch.io page: [ghost-31.itch.io](https://ghost-31.itch.io)
+
 ## 📊 Stats
 
 <div style="display: inline_block">
