@@ -23,8 +23,8 @@ My Itch.io page: [ghost-31.itch.io](https://ghost-31.itch.io)
  | Languages | Engines | Dev Tools | Knowledge |
  |-----------|----------|------------|-------|
  | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a> |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unreal" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qt" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> ||||
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a> | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> ||||  
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=lua" /></a> | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a> ||||
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity" /> </a>| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> ||||  
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a> | | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a> ||||
 
 ## 📩 Contacts
   
