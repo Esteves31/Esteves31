@@ -1,4 +1,4 @@
-## Hi! I am Matheus Esteves!!
+## Hi! I am Matheus Esteves!
 
 I'm a student at Unifesp (University of São Paulo) studyng about computer science and game development.
 
