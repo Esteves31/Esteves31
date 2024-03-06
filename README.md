@@ -6,7 +6,7 @@ I'm a student at Unifesp (University of São Paulo) studyng about computer scien
 - 🥇 Seeking constancy and improving my tech skills and soft skills.
 - ⚡ Fun fact: my passion for games brought me into the world of technology.
 
-My portfolio: 🛠 I'm building this, wait a minute 🛠
+My portfolio: 🛠 I'm building this, wait a minute  🛠
 
 My Itch.io page: [https://ghost-31.itch.io](https://ghost-31.itch.io)
 
