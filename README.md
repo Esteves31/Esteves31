@@ -2,7 +2,7 @@
 
 I'm a student at Unifesp (University of São Paulo) studyng about computer science and software development.
 
-- 📖 Studyng software development with C++ and Java.
+- 📖 Studyng software development with C++, Java and C#.
 - 🥇 Seeking constancy and improving my tech skills and soft skills.
 - ⚡ Fun fact: my passion for games brought me into the world of technology.
 
