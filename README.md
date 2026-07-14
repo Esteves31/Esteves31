@@ -2,7 +2,7 @@
 
 I'm a student at Unifesp (University of São Paulo) studyng about computer science and software development.
 
-- 📖 Studyng software development with C++, Java and C#.
+- 📖 Studyng software development with Node.js, Java and C#.
 - 🥇 Seeking constancy and improving my tech skills and soft skills.
 - ⚡ Fun fact: my passion for games brought me into the world of technology.
 
@@ -20,9 +20,9 @@ My portfolio: [https://esteves31.github.io/MyPortfolio/](https://esteves31.githu
 
  | Languages | Data Base | Dev Tools | Knowledge |
  |-----------|----------|------------|-------|
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a> |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=qt" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> ||||
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /> </a>| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a> ||||  
- | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" /> </a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a> ||||
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a> |  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=npm" /></a> ||||
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /> </a>| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a> ||||  
+ | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" /> </a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" /></a> ||||
 
 ## 📩 Contacts
   
